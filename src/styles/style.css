@@ -2,10 +2,12 @@ body{
     text-align: center;
     color: white;
     background-color: #232323;
+    font-size: 20px;
+    background-image: url('/src/styles/space.jpg');
 }
 #form{
     margin: 5em auto;
-    width: 20em;
+    width: 10em;
 }
 button{
     margin-top: 1em;

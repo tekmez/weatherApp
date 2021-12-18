@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: #232323;
+}
+#form{
+    margin: 5em auto;
+    width: 20em;
+}
+button{
+    margin-top: 1em;
+}
+#table{
+    width: 50em;
+    margin: 5em auto;
+}
